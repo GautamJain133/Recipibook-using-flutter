@@ -1,6 +1,16 @@
 # recipibook
 
-A new Flutter application.
+A application highly useful for home makers it is a book of recipies (indian,italian,chinese etc.) developed using flutter
+
+features coded ?
+
+Available filters like -
+glutene free ✔
+Is vegan ✔
+vegitarian ✔
+nonvegetarian ✔
+A special section where we add our favourite recipies ✔
+
 
 ## Getting Started
 
